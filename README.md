@@ -16,5 +16,5 @@ Software Developer and Engineer with a strong drive for practical and efficient 
 
 **Websites**
 
-[Band Website: Memory Official](https://github.com/postmort3m33/memoryofficial-app) ** [Site](www.memoryofficial.com)
+[Band Website: Memory Official](https://github.com/postmort3m33/memoryofficial-app) ** [Site](https://www.memoryofficial.com/)
 
