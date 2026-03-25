@@ -6,15 +6,19 @@ Software Developer and Engineer with a strong drive for practical and efficient 
 
 ## Categories
 
+**Utilities**:
+
+[Powershell: Laserfiche User Access Report](https://github.com/postmort3m33/laserfiche-user-access-report)
+
+[Python: CSV Comparer](https://github.com/postmort3m33/Csv-Comparer)
+
+[SQL: SmartFind Express and eFinance Plus API Sync Discrepancy Report SQL](https://github.com/postmort3m33/smartfind-express-to-efinance-sync-report-sql)
+
 **Various Scripts**:
 
 [Powershell: Latest Modified Files](https://github.com/postmort3m33/latest-modified-files)
 
-[Powershell: Laserfiche User Access Report](https://github.com/postmort3m33/laserfiche-user-access-report)
-
 [Powershell: Kill Processes](https://github.com/postmort3m33/kill-processes)
-
-[Python: CSV Comparer](https://github.com/postmort3m33/Csv-Comparer)
 
 **Video Game Design**
 
