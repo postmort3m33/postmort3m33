@@ -14,6 +14,8 @@ Software Developer and Engineer with a strong drive for practical and efficient 
 
 [SQL: SmartFind Express and eFinance Plus API Sync Discrepancy Report SQL](https://github.com/postmort3m33/smartfind-express-to-efinance-sync-report-sql)
 
+[SQL: SmartFind Express to eFinance Work Schedules Import](https://github.com/postmort3m33/smartfind-express-to-efinance-work-schedule-import-sql)
+
 **Various Scripts**:
 
 [Powershell: Latest Modified Files](https://github.com/postmort3m33/latest-modified-files)
