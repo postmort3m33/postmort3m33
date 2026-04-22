@@ -28,6 +28,10 @@ Software Developer and Engineer with a strong drive for practical and efficient 
 
 [PlatformIO IDE: Pocket Hero](https://github.com/postmort3m33/pocket-hero)
 
+**Aerospace Projects**
+
+[TMR: Triple Modular Redundancy System](https://github.com/postmort3m33/tmr-system)
+
 **Websites**
 
 [Band Website: Memory Official](https://github.com/postmort3m33/memoryofficial-app) ** [Site](https://www.memoryofficial.com/)
