@@ -24,15 +24,15 @@ Software Developer and Engineer with a strong drive for practical and efficient 
 
 **Video Game Design**
 
-[Roblox Engine: Rat Attack](https://github.com/postmort3m33/Rat-Attack) ** [Game Link](https://www.roblox.com/games/11383814662/Rat-Attack)
+[Lua: Roblox Engine: Rat Attack](https://github.com/postmort3m33/Rat-Attack) ** [Game Link](https://www.roblox.com/games/11383814662/Rat-Attack)
 
-[PlatformIO IDE: Pocket Hero](https://github.com/postmort3m33/pocket-hero)
+[C: PlatformIO IDE: Pocket Hero](https://github.com/postmort3m33/pocket-hero)
 
 **Aerospace Projects**
 
-[TMR: Triple Modular Redundancy System](https://github.com/postmort3m33/tmr-system)
+[C++: PlatformIO IDE: Triple Modular Redundancy System](https://github.com/postmort3m33/tmr-system)
 
 **Websites**
 
-[Band Website: Memory Official](https://github.com/postmort3m33/memoryofficial-app) ** [Site](https://www.memoryofficial.com/)
+[HTML/CSS: Band Website: Memory Official](https://github.com/postmort3m33/memoryofficial-app) ** [Site](https://www.memoryofficial.com/)
 
